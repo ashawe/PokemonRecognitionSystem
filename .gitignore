@@ -1,3 +1,7 @@
-data/*
+data/animal
+data/animal_test
+data/archive
+data/pokemon/url
+data/*.zip
 model/*
 node_modules/*
